@@ -1,4 +1,4 @@
-package com.shailja.Employee_SpringBoot_JPA.Employee;
+package com.diya.Employee_SpringBoot_JPA.Employee;
 
 import jakarta.persistence.*;
 import org.springframework.beans.factory.annotation.Autowired;
